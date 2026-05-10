@@ -8,12 +8,6 @@ constexpr int X_MAX = 3 ;
 constexpr int Y_MAX = 3 ;
 constexpr int Z_MAX = 3 ;
 
-// enum class Status
-// {
-//     Success,
-//     Error,
-// };
-
 class MyPoint
 {
     public:
