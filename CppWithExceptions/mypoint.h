@@ -1,9 +1,6 @@
 #ifndef MYPOINT_H
 #define MYPOINT_H
 
-// #include <expected>
-// #include <string>
-
 constexpr int X_MIN = -3 ;
 constexpr int Y_MIN = -3 ;
 constexpr int Z_MIN = -3 ;

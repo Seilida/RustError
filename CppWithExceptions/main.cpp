@@ -5,8 +5,8 @@
 
 int main()
 {
-    // MyPoint myPt = MyPoint::newPoint(0, 1, 2) ;
-    MyPoint myPt = MyPoint::newPoint(0, 3, 2) ;
+    MyPoint myPt = MyPoint::newPoint(0, 1, 2) ;
+    // MyPoint myPt = MyPoint::newPoint(0, 3, 2) ;
 
     std::cout << "Initial value of myPt : " << myPt.x() << ", " << myPt.y() << ", " << myPt.z() << "\n" ;
 
